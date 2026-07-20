@@ -1,0 +1,101 @@
+header{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    padding: 25px 25px;
+    background-color: #dcdcef;
+    margin: 0px;
+    align-items: center;
+}
+
+ul{
+   list-style: none;
+   text-align: center;
+   margin: 0px;
+   padding-left: 0px;
+}
+li{
+    float: left;
+    text-align: center;
+}
+
+li a{
+    padding: 25px;
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    background-color: #665FD1;
+}
+
+.active{
+    background-color: #C1C6FC;
+    color:black;
+}
+
+main{
+    padding:45px;
+    padding-top: 120px;
+}
+
+.section1{
+    margin-top:100px;
+    padding:20px;
+    float:left;
+}
+
+.section2{
+    padding-right: 400px;
+    float: right;
+}
+
+.section3{
+    margin-top:200px;
+    float:right;
+    padding-right:470px;
+}
+
+.section4{
+    margin-top:500px;
+}
+
+.section5{
+    margin-top:150px;
+    padding:20px;
+    float:left;
+}
+
+.section6{
+    margin-top:60px;
+    padding-right:400px;
+    float:right;
+}
+
+.section8{
+    margin-top:60px;
+    float:left;
+}
+
+.section7{
+    margin-top: 200px;
+    padding-right: 530px;
+    float:right;
+}
+
+body{font-family: Arial, Helvetica, sans-serif;}
+
+.bild{
+    display: flex;
+    gap: 20px
+}
+
+.kontakt{
+
+}
+
+.Zeit{
+    float:right;
+    padding-left: 50px;
+}
